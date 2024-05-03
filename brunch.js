@@ -4,4 +4,6 @@ console.log("will it work first time❗❓");
 
 console.log("testing LINT");
 
-                  ce.log("Njhejnkfsnjefnsefg");
+ce.log("Njhejnkfsnjefnsefg");
+
+        asadee.wog("Njhejnkfsnjefnsefg");
