@@ -10,7 +10,7 @@ asadee.wog("Njhejnkf  snjefnsefg");
 
 jhvfhgsv.plu("sufebushbjub");
 
-hzvhfvs     hfv.lol("jhajbehjfb");
+hzvhfvhfv.lol("jhajbehjfb");
  
                    kjbfkhbskjbfjn.sjfhh("jsbejfbjeshdfb");
 
