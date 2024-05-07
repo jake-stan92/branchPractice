@@ -3,12 +3,22 @@
     "@eslint/js": "^9.1.1",
     "eslint": "^9.1.1",
     "globals": "^15.1.0",
-    "lint-staged": "^15.2.2"
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5"
   },
   "scripts": {
-    "lint": "lint-staged"
+    "lint": "eslint . --ext .js,.jsx && prettier --check ."
   },
   "lint-staged": {
-    "*.js": "eslint"
+    "*.{js,jsx,json,css,scss,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
