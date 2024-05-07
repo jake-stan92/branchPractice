@@ -17,3 +17,5 @@ hzvhfvhfv.lol("jhajbehjfb");
 
 
                    zsjbfjhe.jeh("jbszhdgvfghjesvfhjvjehvfhjsvhfv")
+
+                   lol.lol("lol")
