@@ -4,10 +4,16 @@ console.log("will it work first time❗❓");
 
 console.log("testing LINT");
 
-ce.log("Njhejnkfsnjefnsefg");
+ce.    log("Njhejnkfsnjefnsefg");
 
-asadee.wog("Njhejnkfsnjefnsefg");
+asadee.wog("Njhejnkf  snjefnsefg");
 
 jhvfhgsv.plu("sufebushbjub");
 
-hzvhfvshfv.lol("jhajbehjfb");
+hzvhfvs     hfv.lol("jhajbehjfb");
+ 
+                   kjbfkhbskjbfjn.sjfhh("jsbejfbjeshdfb");
+
+
+
+                   zsjbfjhe.jeh("jbszhdgvfghjesvfhjvjehvfhjsvhfv")
